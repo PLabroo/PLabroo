@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prateek Labroo
+- 🌱 I’m currently working as SRE @Sling Media | Dish Networks
 - 👀 I’m interested in Web Development,CI/CD pipeline
-- 🌱 I’m currently working as an SRE @Sling Media | Dish Networks
-- 💞️ I’m looking to collaborate on ...
 - 📫 COnnect with me @https://www.linkedin.com/in/prateek-labroo/
 
 <!---
