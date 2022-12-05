@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Prateek Labroo
-- 🌱 Currently working as SRE @Sling Media | Dish Networks
-- 👀 Exploring fields like Devops,SRE and Web Development
+- 🌱 Previously worked as SRE @Sling Media | Dish Networks
+- 👀 Web Development enthusiast
+- 😊 Currently diving deep into MERN tech stack
 - 📫 Connect with me @ https://www.linkedin.com/in/prateek-labroo/
 
 <!---
