@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek Labroo
-- 🌱 Previously worked as SRE @Sling Media | Dish Networks
+- 🌱 Working as a Software Engineer @ KFinTech Hyderabad
 - 👀 Web Development enthusiast
 - 😊 Currently deep diving into MERN stack
 - 📫 Connect with me @ https://www.linkedin.com/in/prateek-labroo/
