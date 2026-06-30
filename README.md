@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek Labroo
-- 🌱 Working as a Software Engineer @ KFinTech Hyderabad
+- 🌱 Working as a Senior Software Engineer | Frontend @ KFinTech Hyderabad
 - 👀 Web Development enthusiast
 - 😊 Currently deep diving into MERN stack
 - 📫 Connect with me @ https://www.linkedin.com/in/prateek-labroo/
